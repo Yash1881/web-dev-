@@ -1,0 +1,13 @@
+.bg {
+    background-image: url("https://img.freepik.com/free-photo/eiffel-tower-paris-with-gorgeous-colors-autumn_268835-828.jpg");
+    height: 600px;
+    width: 400px;
+    background-repeat: no-repeat;
+}
+.bg-page-2{
+    background-image: url("https://img.freepik.com/free-photo/beautiful-vertical-shot-taj-mahal-building-agra-india-cloudy-sky_181624-16913.jpg");
+ height: 600px;
+ width: 400px;
+ background-repeat: no-repeat;
+
+}
